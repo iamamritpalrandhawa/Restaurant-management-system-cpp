@@ -1,4 +1,4 @@
-<h1 align="center">Restuarant Management System</h1>
+<h1 align="center">Restaurant Management System</h1>
 <h6 align="center">C++ Project</h6></br>
 
 Restaurant Management System is a C++ project designed to streamline restaurant operations
@@ -9,6 +9,7 @@ Restaurant Management System is a C++ project designed to streamline restaurant 
 * Simplify billing processes and manage inventory effectively.
 * User-friendly command-line interface for seamless operation.
 * Intuitive design for easy navigation and usage.
+* Invoices are also generated.
 
 # Getting Started
 
